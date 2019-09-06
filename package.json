@@ -1,0 +1,15 @@
+{
+  "name": "randomfilegen",
+  "version": "1.0.0",
+  "description": "A small utility to generate a file with random words according to a declared size",
+  "main": "randomfilegen.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Bob Reselman <reselbob@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "faker": "^4.1.0"
+  }
+}
