@@ -1,6 +1,6 @@
 # Random File Generator
 
-**Random File Generator** (`randomfilegen.js`) is a utility that generates text files containing a random words.
+**Random File Generator** (`randomfilegen.js`) is a utility that generates text files containing random words.
 
 # Requirements
 
